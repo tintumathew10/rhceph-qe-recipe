@@ -1,0 +1,4 @@
+ceph-version: 16.2.0-139
+composes:
+  rhel-8: http://download.eng.bos.redhat.com/rhel-8/composes/auto/ceph-5.0-rhel-8/RHCEPH-5.0-RHEL-8-20210930.ci.0
+repository: registry-proxy.engineering.redhat.com/rh-osbs/rhceph:ceph-5.0-rhel-8-containers-candidate-24739-20210930012732
