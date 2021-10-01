@@ -1,0 +1,3 @@
+ceph-version: 16.2.0-140
+repository: registry-proxy.engineering.redhat.com/rh-osbs/rhceph:ceph-5.0-rhel-8-containers-candidate-50368-20210930210208
+RHCephVersion: RHCEPH-5.0
