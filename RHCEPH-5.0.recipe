@@ -1,6 +1,6 @@
 ceph-version: 16.2.0-143
-repository: ceph-5.0-rhel-8-containers-candidate-76227-20211014210230
+repository: ceph-5.0-rhel-8-containers-candidate-21859-20211019155900
 RHCephVersion: RHCEPH-5.0
 platforms:
 - rhel-8
-updated: 10/14/21-21:09:46-UTC
+updated: 10/19/21-16:08:25-UTC
