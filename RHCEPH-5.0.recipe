@@ -1,4 +1,4 @@
-# Red Hat Ceph Storage 5.0 z streams
+# Red Hat Ceph Storage 5.0 and z streams
 ceph-version: 16.2.0-143
 repository: ceph-5.0-rhel-8-containers-candidate-21859-20211019155900
 RHCephVersion: RHCEPH-5.0
