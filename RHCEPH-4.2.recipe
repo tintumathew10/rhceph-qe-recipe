@@ -1,7 +1,7 @@
-ceph-version: 14.2.11-206
-repository: ceph-4.2-rhel-8-containers-candidate-65500-20211109071856
+ceph-version: 14.2.11-207
+repository: ceph-4.2-rhel-8-containers-candidate-60771-20211110231144
 RHCephVersion: RHCEPH-4.2
 platforms:
 - rhel-8
 - rhel-7
-updated: 11/09/21-07:26:11-UTC
+updated: 11/10/21-23:24:33-UTC
